@@ -59,7 +59,7 @@
         <mongo.version>1.0.0.RELEASE</mongo.version>
         <jsch.version>0.1.54</jsch.version>
         <jlayer.version>1.0.1</jlayer.version>
-        <httpclient.version>4.5.12</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <httpclientmime.version>4.4</httpclientmime.version>
         <okhttp.version>4.9.1</okhttp.version>
         <guava.cache.version>30.1.1-jre</guava.cache.version>
