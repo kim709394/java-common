@@ -67,7 +67,7 @@
         <truelicense.version>1.33</truelicense.version>
         <jpython.version>2.7.1</jpython.version>
         <pdfbox.version>2.0.12</pdfbox.version>
-        <itextpdf.version>5.5.13</itextpdf.version>
+        <itextpdf.version>5.5.13.3</itextpdf.version>
         <itextpdf.asian.version>5.2.0</itextpdf.asian.version>
         <poi.version>5.0.0</poi.version>
         <poi.ooxml.version>5.0.0</poi.ooxml.version>
